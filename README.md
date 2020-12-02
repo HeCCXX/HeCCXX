@@ -7,8 +7,8 @@
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white)](mailto:985701799@qq.com)
   
   
-👨‍🎓 **About:** 23 Years old Developer from China.  
-👨‍💻 **Languages:** Java, Scala, BigData, Spring.  
+👨‍🎓 **About:** 24 Years old Developer from China.  
+👨‍💻 **Languages:** Java, Scala, BigData, Spring, Web.  
 🚴‍♀️ **Hobbies:** Fitness, Coding, Share.  
 
 
